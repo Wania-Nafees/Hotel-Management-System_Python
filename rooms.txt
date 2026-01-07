@@ -1,0 +1,10 @@
+101|Single|3000|Available
+102|Double|5000|Available
+103|Deluxe|8000|Available
+105|single|3000|Available
+104|Double|5000|Available
+106|Deluxe|8000|Occupied
+100|Suite|10000|Available
+107|Double|8000|Available
+109|Double|5000|Available
+110|Deluxe|10000|Available
